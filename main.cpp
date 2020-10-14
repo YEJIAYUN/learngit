@@ -6,6 +6,7 @@ int main(){
     cout << "Hello World!" << endl;
     cout << "Fighting!" << endl;
     cout << "Version 3" << endl;
+    cout << "Modification in master";
     
     return 0;
 }
